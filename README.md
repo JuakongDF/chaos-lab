@@ -6,9 +6,9 @@
 
 **Estudiantes:** Abran el laboratorio en su navegador (sin instalación):
 
-👉 **https://JuakongDF.github.io/chaos-lab/**
+👉 **https://juakongdf.github.io/chaos-lab/lab/index.html?path=00_Bienvenida.ipynb**
 
-*(Reemplace `JuakongDF` con su nombre de usuario de GitHub una vez que suba el repositorio)*
+O simplemente: **https://juakongdf.github.io/chaos-lab/** y hagan clic en la carpeta 📁 para ver los notebooks.
 
 ## 📚 Contenido
 

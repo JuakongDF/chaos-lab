@@ -63,17 +63,28 @@ Ve a la pestaña **Actions** y espera el ✅
 
 Tu laboratorio estará en:
 ```
-https://TU-USUARIO.github.io/jupyterlite-chaos-lab/
+https://juakongdf.github.io/chaos-lab/
+```
+
+Para abrir directamente la bienvenida:
+```
+https://juakongdf.github.io/chaos-lab/lab/index.html?path=00_Bienvenida.ipynb
 ```
 
 ---
 
 ## 🎓 Para Estudiantes
 
-Comparte este link:
+**Opción 1 - Abre la bienvenida automáticamente:**
 ```
-https://TU-USUARIO.github.io/jupyterlite-chaos-lab/
+https://juakongdf.github.io/chaos-lab/lab/index.html?path=00_Bienvenida.ipynb
 ```
+
+**Opción 2 - Página principal:**
+```
+https://juakongdf.github.io/chaos-lab/
+```
+Haz clic en el ícono de carpeta 📁 en el panel izquierdo para ver los notebooks.
 
 Y la hoja de referencia en: `content/REFERENCIA_RAPIDA.md`
 

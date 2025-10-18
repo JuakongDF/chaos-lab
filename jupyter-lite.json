@@ -2,7 +2,6 @@
   "jupyter-lite-schema-version": 0,
   "jupyter-config-data": {
     "appName": "Laboratorio de Caos",
-    "appUrl": "./lab",
     "settingsOverrides": {
       "@jupyterlab/apputils-extension:themes": {
         "theme": "JupyterLab Light"
@@ -11,8 +10,7 @@
         "markdown": "Markdown Preview",
         "notebook": "Notebook"
       }
-    },
-    "defaultPath": "00_Bienvenida.ipynb"
+    }
   },
   "piplite_urls": [
     "https://pypi.org/pypi/{package_name}/json"

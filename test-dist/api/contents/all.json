@@ -1,0 +1,57 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2025-10-18T03:12:31.024448Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2025-10-18T02:21:10.874732Z",
+      "mimetype": "text/markdown",
+      "name": "REFERENCIA_RAPIDA.md",
+      "path": "REFERENCIA_RAPIDA.md",
+      "size": 3103,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2025-10-18T03:12:31.023742Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2025-10-18T02:19:51.747675Z",
+      "mimetype": null,
+      "name": "00_Bienvenida.ipynb",
+      "path": "00_Bienvenida.ipynb",
+      "size": 3574,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2025-10-18T03:12:31.025189Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2025-10-18T02:19:27.545310Z",
+      "mimetype": null,
+      "name": "mapa_logistico_ext.ipynb",
+      "path": "mapa_logistico_ext.ipynb",
+      "size": 83650,
+      "type": "notebook",
+      "writable": true
+    }
+  ],
+  "created": "2025-10-18T03:12:31.024683Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2025-10-18T03:12:31.024683Z",
+  "mimetype": null,
+  "name": "",
+  "path": "",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}
