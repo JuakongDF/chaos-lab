@@ -4,11 +4,11 @@
 
 ## 🚀 Acceso al Laboratorio
 
-**Estudiantes:** Abran el laboratorio en su navegador (sin instalación):
+**Link para estudiantes:**
 
 👉 **https://juakongdf.github.io/chaos-lab/lab/index.html?path=00_Bienvenida.ipynb**
 
-O simplemente: **https://juakongdf.github.io/chaos-lab/** y hagan clic en la carpeta 📁 para ver los notebooks.
+(Abre directamente el notebook de bienvenida. Todo funciona en el navegador, sin instalación.)
 
 ## 📚 Contenido
 
