@@ -6,8 +6,13 @@
     "settingsOverrides": {
       "@jupyterlab/apputils-extension:themes": {
         "theme": "JupyterLab Light"
+      },
+      "@jupyterlab/docmanager-extension:defaultViewers": {
+        "markdown": "Markdown Preview",
+        "notebook": "Notebook"
       }
-    }
+    },
+    "defaultPath": "00_Bienvenida.ipynb"
   },
   "piplite_urls": [
     "https://pypi.org/pypi/{package_name}/json"
