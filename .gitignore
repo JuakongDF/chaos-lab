@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Jupyter
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# JupyterLite
+dist/
+_output/
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Solutions (don't publish to students)
+**/SOL_*.ipynb
+
+# Temporary files
+*.tmp
+*.bak
+*~
