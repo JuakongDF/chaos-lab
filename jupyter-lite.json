@@ -3,6 +3,11 @@
   "jupyter-lite-data": {
     "defaultUrl": "/lab/index.html?path=mapa_logistico_ext.ipynb"
   },
+  "LiteBuildConfig": {
+    "federated_extensions": [
+      "@jupyter-widgets/jupyterlab-manager"
+    ]
+  },
   "jupyter-config-data": {
     "appName": "Laboratorio de Caos",
     "settingsOverrides": {
