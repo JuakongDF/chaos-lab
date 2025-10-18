@@ -34,6 +34,8 @@ jobs:
           pip install jupyterlite-core==0.3.0
           pip install jupyterlite-pyodide-kernel==0.3.2
           pip install jupyter-server
+          pip install jupyterlab~=4.0
+          pip install ipywidgets
 
       - name: Build JupyterLite site
         run: |
