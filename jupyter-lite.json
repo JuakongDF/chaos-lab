@@ -5,7 +5,8 @@
   },
   "LiteBuildConfig": {
     "federated_extensions": [
-      "@jupyter-widgets/jupyterlab-manager"
+      "https://cdn.jsdelivr.net/npm/@jupyter-widgets/jupyterlab-manager@5.0.9/dist/jupyterlab-manager-5.0.9.tgz",
+      "https://cdn.jsdelivr.net/npm/bqplot@0.12.42/dist/bqplot-0.12.42.tgz"
     ]
   },
   "jupyter-config-data": {
