@@ -1,22 +1,15 @@
 {
+  "jupyter-lite-schema-version": 0,
   "jupyter-config-data": {
     "appName": "Laboratorio de Caos",
     "appUrl": "./lab",
-    "disabledExtensions": [],
     "settingsOverrides": {
       "@jupyterlab/apputils-extension:themes": {
         "theme": "JupyterLab Light"
-      },
-      "@jupyterlab/notebook-extension:tracker": {
-        "kernelShutdown": false
       }
     }
   },
-  "jupyter-lite-schema-version": 0,
-  "jupyter-config": {
-    "LabApp": {
-      "app_name": "Laboratorio de Caos - Mapa Logístico Extendido",
-      "app_version": "1.0.0"
-    }
-  }
+  "piplite_urls": [
+    "https://pypi.org/pypi/{package_name}/json"
+  ]
 }

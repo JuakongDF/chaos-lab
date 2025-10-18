@@ -33,10 +33,18 @@ jobs:
           python -m pip install --upgrade pip
           pip install jupyterlite-core==0.3.0
           pip install jupyterlite-pyodide-kernel==0.3.2
+          pip install jupyterlite-pyodide-lock==0.8.0
 
       - name: Build JupyterLite site
         run: |
-          jupyter-lite build --contents content --output-dir dist
+          jupyter-lite build --contents content --output-dir dist --piplite-wheels https://pypi.org/pypi/{package_name}/json
+          
+      - name: List built files
+        run: |
+          echo "Files in dist:"
+          ls -la dist/
+          echo "Files in dist/files:"
+          ls -la dist/files/ || echo "No files directory"
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
