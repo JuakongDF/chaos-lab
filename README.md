@@ -6,7 +6,7 @@
 
 **Estudiantes:** Abran el laboratorio en su navegador (sin instalación):
 
-👉 **https://JuakongDF.github.io/jupyterlite-chaos-lab/**
+👉 **https://JuakongDF.github.io/chaos-lab/**
 
 *(Reemplace `JuakongDF` con su nombre de usuario de GitHub una vez que suba el repositorio)*
 
