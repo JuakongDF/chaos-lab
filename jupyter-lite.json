@@ -1,5 +1,8 @@
 {
   "jupyter-lite-schema-version": 0,
+  "jupyter-lite-data": {
+    "defaultUrl": "/lab/index.html?path=mapa_logistico_ext.ipynb"
+  }
   "jupyter-config-data": {
     "appName": "Laboratorio de Caos",
     "settingsOverrides": {
