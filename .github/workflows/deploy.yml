@@ -33,11 +33,11 @@ jobs:
           python -m pip install --upgrade pip
           pip install jupyterlite-core==0.3.0
           pip install jupyterlite-pyodide-kernel==0.3.2
-          pip install jupyterlite-pyodide-lock==0.8.0
+          pip install jupyter-server
 
       - name: Build JupyterLite site
         run: |
-          jupyter-lite build --contents content --output-dir dist --piplite-wheels https://pypi.org/pypi/{package_name}/json
+          jupyter-lite build --contents content --output-dir dist
           
       - name: List built files
         run: |
