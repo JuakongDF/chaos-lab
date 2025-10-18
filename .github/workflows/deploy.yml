@@ -36,6 +36,7 @@ jobs:
           pip install jupyter-server
           pip install jupyterlab~=4.0
           pip install ipywidgets
+          pip install bqplot
 
       - name: Build JupyterLite site
         run: |
