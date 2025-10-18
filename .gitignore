@@ -12,6 +12,8 @@ __pycache__/
 # JupyterLite
 dist/
 _output/
+test-dist/
+.jupyterlite.doit.db
 
 # macOS
 .DS_Store
