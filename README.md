@@ -6,7 +6,7 @@
 
 **Link para estudiantes:**
 
-👉 **https://juakongdf.github.io/chaos-lab/lab/index.html?path=00_Bienvenida.ipynb**
+👉 **https://juakongdf.github.io/chaos-lab/lab/index.html?path=mapa_logistico_ext.ipynb**
 
 (Abre directamente el notebook de bienvenida. Todo funciona en el navegador, sin instalación.)
 
