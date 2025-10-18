@@ -78,3 +78,4 @@ Desarrollado para el curso de Sistemas Din√°micos y Caos, basado en investigaci√
 # Clean deployment without custom domain
 # Rebuild after deleting files
 # Rebuild after JSON update
+# Rebuild after JSON update
